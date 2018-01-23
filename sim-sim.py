@@ -96,7 +96,7 @@ DISABLE_VIDEO_CONTENT = 0
 
 # Примеры заблокированных доменов для показа на главной
 
-SAMPLE_HOSTS = ["kinozal.tv", "lib.rus.ec", "ej.ru"]
+SAMPLE_HOSTS = ["zserials.cc","kinozal.tv","rutracker.org", "lib.rus.ec", "ej.ru"]
 
 # Время (в секундах) ожидания ответа удаленного сервера
 
